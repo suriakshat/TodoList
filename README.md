@@ -1,0 +1,1 @@
+This project is used to showcase a practical Todo List made using javascript,html and css to add or delete values from a list ,the list contains a task as well as a date at which the task needs to be performed.
